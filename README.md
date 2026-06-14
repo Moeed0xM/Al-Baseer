@@ -33,7 +33,7 @@ The interactive interface prompts the user for connection parameters (LHOST, LPO
 Upon successful compilation, the framework outputs detailed structural metadata, including file size and execution properties.
 
 <p align="center">
-  <img src="Payload Creation.PNG" alt="Payload Generation Metadata" width="85%">
+  <img src="2.png" alt="Payload Generation Metadata" width="85%">
 </p>
 
 ### 3. Connection Verification
