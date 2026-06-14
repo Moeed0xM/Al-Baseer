@@ -40,7 +40,7 @@ Upon successful compilation, the framework outputs detailed structural metadata,
 An example of verifying connection handling and interactive terminal behavior during an authorized evaluation session.
 
 <p align="center">
-  <img src="get access of windows.jfif" alt="Session Handler Verification" width="85%">
+  <img src="access.png" alt="Session Handler Verification" width="85%">
 </p>
 
 ---
