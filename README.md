@@ -26,7 +26,7 @@
 The interactive interface prompts the user for connection parameters (LHOST, LPORT, and output filename) before executing the compilation pipeline.
 
 <p align="center">
-  <img src="Enterface.PNG" alt="Configuration Setup Interface" width="85%">
+  <img src="Enterface.png" alt="Configuration Setup Interface" width="85%">
 </p>
 
 ### 2. Payload Information & Usage Instructions
